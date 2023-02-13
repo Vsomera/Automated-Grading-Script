@@ -1,0 +1,4 @@
+How much is 2+2?,1,10,4,0,3
+Which Python keyword is used to define a function?,def,class,print,return,1
+How much is 10/2?,10,5,2,20,2
+Which of the following instructors do you like the most?,Sarah,Bob,John,Tim,4
